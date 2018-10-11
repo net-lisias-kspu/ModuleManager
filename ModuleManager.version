@@ -1,0 +1,32 @@
+{
+	"NAME"		: "Module Manager Unofficial",
+	"URL"		: "https://raw.githubusercontent.com/net-lisias-kspu/ModuleManager/master/ModuleManager.version",
+	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/ModuleManager/releases",
+	"CHANGE_LOG"	: "https://raw.githubusercontent.com/net-lisias-kspu/ModuleManager/master/CHANGE_LOG.md",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/net-lisias-kspu/ModuleManager/master/CHANGES.md",
+	"GITHUB": {
+		"USERNAME"		: "net-lisias-ksp",
+		"REPOSITORY"		: "ModuleManager",
+		"ALLOW_PRE_RELEASE"	: false
+		},
+	"VERSION":{
+		"MAJOR":3,
+		"MINOR":0,
+		"PATCH":7,
+		"BUILD":3
+		},
+	"KSP_VERSION":{
+		"MAJOR":1,
+		"MINOR":4
+		},
+	"KSP_VERSION_MIN":{
+		"MAJOR":1,
+		"MINOR":4,
+		"PATCH":1
+		},
+	"KSP_VERSION_MAX":{
+		"MAJOR":1,
+		"MINOR":4,
+		"PATCH":99
+		}
+}
